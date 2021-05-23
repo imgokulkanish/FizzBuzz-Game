@@ -1,0 +1,43 @@
+body{
+    padding: 20px 30px 40px 40px;
+    text-align:center;
+    margin: auto;
+    margin-top: 150px;
+    background-color: #fffbdf;
+    background-image: url(https://cdn.cdnparenting.com/articles/2018/02/123166408-H.jpg);
+    background-size: cover;
+  }
+  .container{
+    background-color: #f21170;
+    height: 190px;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    align-items: center;
+    margin: auto;
+    border-radius: 10px;
+}
+span{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 18px;
+    background: #ff75a0;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #fbaccc;
+    text-decoration: none;
+  }
+  #para{
+      font-size: xx-large;
+  }
